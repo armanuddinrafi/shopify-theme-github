@@ -17,24 +17,32 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
+            "text": "Free Shipping and Free Returns for BlueRewards Members",
+            "link": "shopify:\/\/products\/blooming-wild-simple-and-elegant"
           }
         },
         "announcement_drbNLi": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
+            "text": "Free Gifts with Purchase. Browse Now >",
+            "link": "shopify:\/\/products\/blooming-wild-simple-and-elegant"
+          }
+        },
+        "announcement_3KhN6j": {
+          "type": "announcement",
+          "settings": {
+            "text": "20% off Makeup with code LIPSTICKDAY. Shop Now",
+            "link": "shopify:\/\/products\/blooming-wild-simple-and-elegant"
           }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_drbNLi"
+        "announcement_drbNLi",
+        "announcement_3KhN6j"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-d44e6485-588f-4294-a5ab-734f2da5ca9b",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,

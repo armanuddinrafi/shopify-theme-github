@@ -20,13 +20,21 @@
             "text": "Welcome to our store",
             "link": ""
           }
+        },
+        "announcement_drbNLi": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_drbNLi"
       ],
       "settings": {
-        "color_bg": "linear-gradient(180deg, rgba(247, 97, 97, 1), rgba(0, 0, 0, 1) 100%)",
+        "color_scheme": "scheme-1",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,

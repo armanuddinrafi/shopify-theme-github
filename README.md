@@ -1,1 +1,1 @@
-# shopify-theme-github
+# shopify-theme-github-itbeeshop

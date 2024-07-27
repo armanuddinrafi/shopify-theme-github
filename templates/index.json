@@ -15,6 +15,7 @@
         "slide_EKWpCR": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2024-07_lune-aster_sunstone-eyeshadow-palette_hp-hero-des_2000x_b6a701fc-e25a-4587-b2fc-a77d41691004.jpg",
             "heading": "Image slide",
             "heading_size": "h2",
             "subheading": "Tell your brand's story through images",
@@ -26,6 +27,24 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_3bgn8q": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2024-m61-biobarrier-2-hp-hero-des_2000x_5f3b47fa-a9f2-4076-9c88-19b4fad3453f.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         },
@@ -49,6 +68,7 @@
       },
       "block_order": [
         "slide_EKWpCR",
+        "slide_3bgn8q",
         "slide_3VMaHE"
       ],
       "settings": {

@@ -3571,7 +3571,7 @@ details-disclosure > details {
   color: lightblue;
 }
 
-svg.icon.icon-caret {
+.slider-button.slider-button--prev {
   opacity: 0.0;
 }
 button.slideshow__autoplay.slider-button {

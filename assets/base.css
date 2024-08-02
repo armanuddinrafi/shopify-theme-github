@@ -3570,3 +3570,10 @@ details-disclosure > details {
 .header {
   color: lightblue;
 }
+
+svg.icon.icon-caret {
+  opacity: 0.0;
+}
+button.slideshow__autoplay.slider-button {
+  opacity: 0.0;
+}

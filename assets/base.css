@@ -3571,7 +3571,7 @@ details-disclosure > details {
   color: lightblue;
 }
 
-.slider-button.slider-button--prev {
+.slider-button--prev {
   opacity: 0.0;
 }
 button.slideshow__autoplay.slider-button {

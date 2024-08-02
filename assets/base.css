@@ -3573,6 +3573,7 @@ details-disclosure > details {
 
 #shopify-section-template--17124868620464__slideshow_UBk3wN > slideshow-component > div.slideshow__controls.slideshow__controls--top.slider-buttons.slideshow__controls--border-radius-mobile > button.slider-button{
   opacity: 0.0;
+  display: none;
 }
 button.slideshow__autoplay.slider-button {
   opacity: 0.0;

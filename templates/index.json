@@ -150,6 +150,11 @@
         "padding_bottom": 36
       }
     },
+    "custom-grid": {
+      "type": "custom-grid",
+      "settings": {
+      }
+    },
     "image_with_text_wBJWqN": {
       "type": "image-with-text",
       "blocks": {
@@ -202,6 +207,7 @@
     "slideshow_UBk3wN",
     "image_banner",
     "featured_collection",
-    "image_with_text_wBJWqN"
+    "image_with_text_wBJWqN",
+    "custom-grid"
   ]
 }

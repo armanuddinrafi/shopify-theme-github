@@ -2,7 +2,7 @@
   <div class="container">
         <div class="content">
             <div class="heading">
-                <h2>RMS Beauty Hydra Setting Powder</h2>
+                <h2>{{ section.settings.title }}</h2>
             </div>
             <div class="peragraph">
                 <p>This weightless, oil-absorbing powder minimizes the appearance of pores, blurs imperfections, sets
@@ -86,3 +86,18 @@
         }
     </style>
 </style>
+
+{% schema %}
+  {
+    "name": "Grid Item Image & product",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "label name",
+        "default": "Title Name"
+      }
+    ]
+  }
+
+{% endschema %}

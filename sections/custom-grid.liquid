@@ -20,7 +20,7 @@
             </div>
 
             <div class="imgDivb">
-               <h2> {{ product.title | escape }}</h2>
+              {% for image in product.images %} {{ image.src | product_img_url: 'https://cdn.shopify.com/s/files/1/0652/1824/8880/files/CL-BF-HR-477.png?v=1722625772' }} {% endfor %}
             </div>
 
         </div>

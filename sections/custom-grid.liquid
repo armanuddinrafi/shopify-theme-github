@@ -5,8 +5,7 @@
                 <h2>{{ section.settings.title }}</h2>
             </div>
             <div class="peragraph">
-                <p>This weightless, oil-absorbing powder minimizes the appearance of pores, blurs imperfections, sets
-                    makeup, and delicately hydrates for a natural, smooth filter effect on the skin.</p>
+                <p>{{ section.settings.description }}</p>
             </div>
             <div class="morelink"><a href="">Shop Now</a></div>
         </div>
@@ -94,8 +93,14 @@
       {
         "type": "text",
         "id": "title",
-        "label": "label name",
+        "label": "Title",
         "default": "Title Name"
+      },
+      {
+        "type": "text",
+        "id": "description",
+        "label": "Description",
+        "default": "Lorem ipsum dolor sit amet consectetur adipisicing elit"
       }
     ]
   }

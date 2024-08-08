@@ -150,6 +150,11 @@
         "padding_bottom": 36
       }
     },
+    "custom-future-collection": {
+      "type": "custom-future-collection",
+      "settings": {
+      }
+    },
     "image_with_text_wBJWqN": {
       "type": "image-with-text",
       "blocks": {
@@ -211,6 +216,7 @@
     "image_banner",
     "featured_collection",
     "image_with_text_wBJWqN",
-    "custom-grid"
+    "custom-grid",
+    "custom-future-collection"
   ]
 }

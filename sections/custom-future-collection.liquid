@@ -41,9 +41,11 @@
           <div class="bestseller-item">
             <a href="{{ product.url }}">
               <img width="" height="" src="{{ product.featured_image | img_url: '500x' }}" alt="{{ product.title }}" loading="lazy">
-            </a>
+           
+            <p class="product-vendor">{{ product.vendor }} </p>
             <p class="product-title">{{ product.title }}</p>
             <p class="product-price">{{ product.price | money_without_trailing_zeros }}</p>
+           </a>
           </div>
         {% endif %}
       {% endif %}

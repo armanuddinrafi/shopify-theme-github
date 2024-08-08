@@ -1,6 +1,86 @@
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "Bestsellers",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Section Title",
+      "default": "Bestsellers"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "product",
+      "name": "Product",
+      "settings": [
+        {
+          "type": "product",
+          "id": "product",
+          "label": "Select Product"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Bestsellers",
+      "category": "Custom"
+    }
+  ]
+}
 {% endschema %}
+
+<div class="bestsellers-section">
+  <h2>{{ section.settings.title }}</h2>
+  <div class="bestsellers-container">
+    {% for block in section.blocks %}
+      {% if block.type == 'product' %}
+        {% assign product = block.settings.product %}
+        {% if product %}
+          <div class="bestseller-item">
+            <a href="{{ product.url }}">
+              <img src="{{ product.featured_image | img_url: '500x' }}" alt="{{ product.title }}">
+            </a>
+            <p class="product-title">{{ product.title }}</p>
+            <p class="product-price">{{ product.price | money }}</p>
+          </div>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+
+<style>
+.bestsellers-section {
+  text-align: center;
+  margin: 40px 0;
+}
+
+.bestsellers-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.bestseller-item {
+  max-width: 200px;
+  text-align: center;
+}
+
+.bestseller-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.product-title {
+  font-weight: bold;
+  margin: 10px 0 5px;
+}
+
+.product-price {
+  color: #333;
+}
+</style>

@@ -219,11 +219,32 @@
           "settings": {
             "product": "bumble-and-bumble-bb-bond-building-repair-conditioner-travel-size-2-oz"
           }
+        },
+        "product_hDr7EG": {
+          "type": "product",
+          "settings": {
+            "product": "origins-clear-improvement™-active-charcoal-mask-to-clear-pores-2-5-fl-oz"
+          }
+        },
+        "product_ffEJCR": {
+          "type": "product",
+          "settings": {
+            "product": "bumble-and-bumble-curl-anti-humidity-gel-oil-1oz-30ml-travel"
+          }
+        },
+        "product_N7MUY7": {
+          "type": "product",
+          "settings": {
+            "product": "clinique-even-better-refresh™-hydrating-and-repairing-foundation-cn-74-beige-1fl-oz"
+          }
         }
       },
       "block_order": [
         "product_bz8Xdj",
-        "product_8mLzaw"
+        "product_8mLzaw",
+        "product_hDr7EG",
+        "product_ffEJCR",
+        "product_N7MUY7"
       ],
       "settings": {
         "title": "Bestsellers"

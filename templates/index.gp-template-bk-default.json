@@ -8,118 +8,66 @@
 * ------------------------------------------------------------
 */
 {
+  "order": [
+    "slideshow_UBk3wN",
+    "image_banner",
+    "featured_collection",
+    "image_with_text_wBJWqN",
+    "custom-grid",
+    "custom-future-collection"
+  ],
   "sections": {
-    "slideshow_UBk3wN": {
-      "type": "slideshow",
+    "custom-future-collection": {
+      "type": "custom-future-collection",
       "blocks": {
-        "slide_EKWpCR": {
-          "type": "slide",
+        "product_8mLzaw": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024-07_lune-aster_sunstone-eyeshadow-palette_hp-hero-des_2000x_b6a701fc-e25a-4587-b2fc-a77d41691004.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
+            "product": "bumble-and-bumble-bb-bond-building-repair-conditioner-travel-size-2-oz"
           }
         },
-        "slide_3bgn8q": {
-          "type": "slide",
+        "product_N7MUY7": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024-m61-biobarrier-2-hp-hero-des_2000x_5f3b47fa-a9f2-4076-9c88-19b4fad3453f.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
-            "text_alignment_mobile": "center"
+            "product": "clinique-even-better-refresh™-hydrating-and-repairing-foundation-cn-74-beige-1fl-oz"
           }
         },
-        "slide_3VMaHE": {
-          "type": "slide",
+        "product_bz8Xdj": {
+          "type": "product",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
+            "product": "aveda-invati-advanced-exfoliating-shampoo-50ml"
+          }
+        },
+        "product_ffEJCR": {
+          "type": "product",
+          "settings": {
+            "product": "bumble-and-bumble-curl-anti-humidity-gel-oil-1oz-30ml-travel"
+          }
+        },
+        "product_hDr7EG": {
+          "type": "product",
+          "settings": {
+            "product": "origins-clear-improvement™-active-charcoal-mask-to-clear-pores-2-5-fl-oz"
           }
         }
       },
       "block_order": [
-        "slide_EKWpCR",
-        "slide_3bgn8q",
-        "slide_3VMaHE"
+        "product_bz8Xdj",
+        "product_8mLzaw",
+        "product_hDr7EG",
+        "product_ffEJCR",
+        "product_N7MUY7"
       ],
       "settings": {
-        "layout": "full_bleed",
-        "slide_height": "small",
-        "slider_visual": "dots",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "image_behavior": "ambient",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "title": "Bestsellers"
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Browse our latest products",
-            "heading_size": "h0"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "button"
-      ],
-      "disabled": true,
+    "custom-grid": {
+      "type": "custom-grid",
       "settings": {
-        "image_overlay_opacity": 40,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
+        "title": "RMS Beauty Hydra Setting Powder",
+        "description": "This weightless, oil-absorbing powder minimizes the appearance of pores, blurs imperfections, sets makeup, and delicately hydrates for a natural, smooth filter effect on the skin.",
+        "image_view": "shopify:\/\/shop_images\/first_imag_banner_demo.jpg"
       }
     },
     "featured_collection": {
@@ -150,9 +98,57 @@
         "padding_bottom": 36
       }
     },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "image_with_text_wBJWqN": {
       "type": "image-with-text",
       "blocks": {
+        "button_tcckgd": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": true
+          }
+        },
         "heading_8XAtKh": {
           "type": "heading",
           "settings": {
@@ -165,14 +161,6 @@
           "settings": {
             "text": "<p>Everything you need for smooth, shiny, frizz-free hair this summer<\/p>",
             "text_style": "body"
-          }
-        },
-        "button_tcckgd": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections",
-            "button_style_secondary": true
           }
         }
       },
@@ -197,66 +185,78 @@
         "padding_bottom": 36
       }
     },
-    "custom-grid": {
-      "type": "custom-grid",
-      "settings": {
-        "title": "RMS Beauty Hydra Setting Powder",
-        "description": "This weightless, oil-absorbing powder minimizes the appearance of pores, blurs imperfections, sets makeup, and delicately hydrates for a natural, smooth filter effect on the skin.",
-        "image_view": "shopify:\/\/shop_images\/first_imag_banner_demo.jpg"
-      }
-    },
-    "custom-future-collection": {
-      "type": "custom-future-collection",
+    "slideshow_UBk3wN": {
+      "type": "slideshow",
       "blocks": {
-        "product_bz8Xdj": {
-          "type": "product",
+        "slide_3VMaHE": {
+          "type": "slide",
           "settings": {
-            "product": "aveda-invati-advanced-exfoliating-shampoo-50ml"
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         },
-        "product_8mLzaw": {
-          "type": "product",
+        "slide_3bgn8q": {
+          "type": "slide",
           "settings": {
-            "product": "bumble-and-bumble-bb-bond-building-repair-conditioner-travel-size-2-oz"
+            "image": "shopify:\/\/shop_images\/2024-m61-biobarrier-2-hp-hero-des_2000x_5f3b47fa-a9f2-4076-9c88-19b4fad3453f.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
           }
         },
-        "product_hDr7EG": {
-          "type": "product",
+        "slide_EKWpCR": {
+          "type": "slide",
           "settings": {
-            "product": "origins-clear-improvement™-active-charcoal-mask-to-clear-pores-2-5-fl-oz"
-          }
-        },
-        "product_ffEJCR": {
-          "type": "product",
-          "settings": {
-            "product": "bumble-and-bumble-curl-anti-humidity-gel-oil-1oz-30ml-travel"
-          }
-        },
-        "product_N7MUY7": {
-          "type": "product",
-          "settings": {
-            "product": "clinique-even-better-refresh™-hydrating-and-repairing-foundation-cn-74-beige-1fl-oz"
+            "image": "shopify:\/\/shop_images\/2024-07_lune-aster_sunstone-eyeshadow-palette_hp-hero-des_2000x_b6a701fc-e25a-4587-b2fc-a77d41691004.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "product_bz8Xdj",
-        "product_8mLzaw",
-        "product_hDr7EG",
-        "product_ffEJCR",
-        "product_N7MUY7"
+        "slide_EKWpCR",
+        "slide_3bgn8q",
+        "slide_3VMaHE"
       ],
       "settings": {
-        "title": "Bestsellers"
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     }
-  },
-  "order": [
-    "slideshow_UBk3wN",
-    "image_banner",
-    "featured_collection",
-    "image_with_text_wBJWqN",
-    "custom-grid",
-    "custom-future-collection"
-  ]
+  }
 }

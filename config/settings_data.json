@@ -10,6 +10,7 @@
 {
   "current": {
     "enable-wishlist": true,
+    "wishlist-floating-button-position": true,
     "logo": "shopify:\/\/shop_images\/itbee-store-logo-2k24.png",
     "logo_width": 200,
     "type_header_font": "poppins_n4",

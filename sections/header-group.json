@@ -58,7 +58,7 @@
         "color-transparent": "",
         "color-hover-background": "",
         "color-hover-text": "",
-        "logo_position": "top-center",
+        "logo_position": "middle-left",
         "menu": "main-menu",
         "menu_type_desktop": "mega",
         "sticky_header_type": "on-scroll-up",

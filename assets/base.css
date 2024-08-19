@@ -3578,3 +3578,21 @@ details-disclosure > details {
 button.slideshow__autoplay.slider-button {
   opacity: 0.0;
 }
+
+.card__badge .badge{
+    border-radius: 0;
+    font-size: 13px;
+    background-color: red;
+    font-weight: bold;
+    border: none;
+  }
+  
+  .price .price__badge-sale {
+    border-radius: 0;
+    font-size: 13px;
+    background-color: red;
+    font-weight: bold;
+    border: none;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }

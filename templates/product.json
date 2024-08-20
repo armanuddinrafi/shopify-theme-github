@@ -109,21 +109,10 @@
             "tab_heading": "2pc"
           }
         },
-        "heading_3HX7nn": {
-          "type": "heading",
+        "liquid_hgEjyd": {
+          "type": "liquid",
           "settings": {
-            "title": "Tab 1 Heading",
-            "block_heading_color": "",
-            "block_heading_size": "",
-            "enable_custom_font": false,
-            "custom_font": "abel_n4",
-            "heading_level": "h2"
-          }
-        },
-        "text_6m3zEJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus rerum maiores nulla dolore perferendis, illo in iusto!<\/p>"
+            "liquid": "<img src=\"https:\/\/prnt.sc\/LQy50ejNcIer\" alt=\"\" \/>"
           }
         },
         "tab_M6h47c": {
@@ -152,8 +141,7 @@
       },
       "block_order": [
         "tab_DtPcmV",
-        "heading_3HX7nn",
-        "text_6m3zEJ",
+        "liquid_hgEjyd",
         "tab_M6h47c",
         "heading_Vpyxkz",
         "text_LbpqHH"
@@ -161,11 +149,11 @@
       "settings": {
         "text_size": 100,
         "tab_style": "small_tabs",
-        "tab_label_color": "#14213D",
+        "tab_label_color": "#14213d",
         "tab_label_highlight_color": "#ffffff",
         "tab_background_color": "#ffffff",
-        "tab_highlight_color": "#FCA311",
-        "text_color": "#14213D",
+        "tab_highlight_color": "#fca311",
+        "text_color": "#14213d",
         "background_color": "linear-gradient(360deg, rgba(229, 229, 229, 1), rgba(229, 229, 229, 1) 100%)",
         "base_width": 95,
         "max_width": "",

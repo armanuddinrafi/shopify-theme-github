@@ -16,6 +16,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/2024-07_lune-aster_sunstone-eyeshadow-palette_hp-hero-des_2000x_b6a701fc-e25a-4587-b2fc-a77d41691004.jpg",
+            "image_link": "shopify:\/\/products\/aveda-invati-advanced-exfoliating-shampoo-50ml",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -34,6 +35,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/2024-m61-biobarrier-2-hp-hero-des_2000x_5f3b47fa-a9f2-4076-9c88-19b4fad3453f.jpg",
+            "image_link": "",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -51,6 +53,7 @@
         "slide_3VMaHE": {
           "type": "slide",
           "settings": {
+            "image_link": "",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",

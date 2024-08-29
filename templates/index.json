@@ -286,6 +286,7 @@
       "settings": {
         "layout_gap": 0,
         "layout_gap_mobile": 0,
+        "image": "shopify:\/\/shop_images\/BB-RP-CN-296.png",
         "image_border_thickness": 0,
         "image_ratio": "square",
         "image_ratio_mobile": "portrait",

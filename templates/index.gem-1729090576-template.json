@@ -1,0 +1,365 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_UBk3wN": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_EKWpCR": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2024-07_lune-aster_sunstone-eyeshadow-palette_hp-hero-des_2000x_b6a701fc-e25a-4587-b2fc-a77d41691004.jpg",
+            "image_link": "shopify:\/\/products\/aveda-invati-advanced-exfoliating-shampoo-50ml",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_3bgn8q": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2024-m61-biobarrier-2-hp-hero-des_2000x_5f3b47fa-a9f2-4076-9c88-19b4fad3453f.jpg",
+            "image_link": "shopify:\/\/products\/bumble-and-bumble-bb-bond-building-repair-conditioner-travel-size-2-oz",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_3VMaHE": {
+          "type": "slide",
+          "settings": {
+            "image_link": "shopify:\/\/products\/origins-clear-improvement™-active-charcoal-mask-to-clear-pores-2-5-fl-oz",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_EKWpCR",
+        "slide_3bgn8q",
+        "slide_3VMaHE"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 10,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_wBJWqN": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8XAtKh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Smooth Moves",
+            "heading_size": "h1"
+          }
+        },
+        "text_iMrBNr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everything you need for smooth, shiny, frizz-free hair this summer<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_tcckgd": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_8XAtKh",
+        "text_iMrBNr",
+        "button_tcckgd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/first_imag_banner_demo.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "custom-grid": {
+      "type": "custom-grid",
+      "settings": {
+        "title": "RMS Beauty Hydra Setting Powder",
+        "description": "This weightless, oil-absorbing powder minimizes the appearance of pores, blurs imperfections, sets makeup, and delicately hydrates for a natural, smooth filter effect on the skin.",
+        "image_view": "shopify:\/\/shop_images\/first_imag_banner_demo.jpg"
+      }
+    },
+    "custom-future-collection": {
+      "type": "custom-future-collection",
+      "blocks": {
+        "product_bz8Xdj": {
+          "type": "product",
+          "settings": {
+            "product": "aveda-invati-advanced-exfoliating-shampoo-50ml"
+          }
+        },
+        "product_8mLzaw": {
+          "type": "product",
+          "settings": {
+            "product": "bumble-and-bumble-bb-bond-building-repair-conditioner-travel-size-2-oz"
+          }
+        },
+        "product_hDr7EG": {
+          "type": "product",
+          "settings": {
+            "product": "origins-clear-improvement™-active-charcoal-mask-to-clear-pores-2-5-fl-oz"
+          }
+        },
+        "product_ffEJCR": {
+          "type": "product",
+          "settings": {
+            "product": "bumble-and-bumble-curl-anti-humidity-gel-oil-1oz-30ml-travel"
+          }
+        },
+        "product_N7MUY7": {
+          "type": "product",
+          "settings": {
+            "product": "clinique-even-better-refresh™-hydrating-and-repairing-foundation-cn-74-beige-1fl-oz"
+          }
+        }
+      },
+      "block_order": [
+        "product_bz8Xdj",
+        "product_8mLzaw",
+        "product_hDr7EG",
+        "product_ffEJCR",
+        "product_N7MUY7"
+      ],
+      "settings": {
+        "title": "Bestsellers"
+      }
+    },
+    "custom_faq_section_pqzTLJ": {
+      "type": "custom-faq-section",
+      "blocks": {
+        "item_43iFYC": {
+          "type": "item",
+          "settings": {
+            "question": "BREAKS DOWN FOOD",
+            "answer": "<p>Everything we eat is broken down by the digestive enzymes we produce in our salvia, pancreas and stomach, allowing nutrients to be efficiently absorbed into the bloodstream. The 17 digestive enzymes found in DEBLOAT+ are particularly beneficial for people suffering from IBS and other digestive issues. They help to break down specific food groups (e.g. carbs, starches, fats, etc.), supported by a trio of organic ingredients known for their anti-inflammatory properties: cinnamon, turmeric and ginger.<\/p>"
+          }
+        },
+        "item_VpCgUW": {
+          "type": "item",
+          "settings": {
+            "question": "REDUCES GAS",
+            "answer": "<p>Alpha galactosidase is 1 of the 17 digestive enzymes found in DEBLOAT+. It breaks down the oligosaccharides (a type of carbohydrate) found in beans and cruciferous vegetables such as broccoli and cabbage, known for causing excess gas and bloating. Cinnamon, turmeric and ginger also boast carminative benefits, meaning they break up gas in the gastrointestinal tract and stimulate antral contractions (the contractions which help food pass from one part of the gut to another).<\/p>"
+          }
+        },
+        "item_eVDtJA": {
+          "type": "item",
+          "settings": {
+            "question": "IMPROVES GUT HEALTH",
+            "answer": "<p>Licorice root has been used for centuries in Ayurvedic medicine, where it is believed to pacify “altered pitta”, reduce heartburn and heal ulcers. In clinical trials, 51% of people reported a reduction in bloating, nausea, gas and abdominal fullness within 30 days of taking our key ingredient daily.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_43iFYC",
+        "item_VpCgUW",
+        "item_eVDtJA"
+      ],
+      "settings": {
+        "layout_gap": 0,
+        "layout_gap_mobile": 0,
+        "image": "shopify:\/\/shop_images\/BB-RP-CN-296.png",
+        "image_border_thickness": 0,
+        "image_ratio": "square",
+        "image_ratio_mobile": "portrait",
+        "image_position": "1",
+        "image_position_mobile": "1",
+        "heading": "<p>HOW IT WORKS<\/p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 82,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "heading_align": "left",
+        "heading_align_mobile": "left",
+        "heading_padding_vertical": 24,
+        "heading_padding_vertical_mobile": 24,
+        "heading_padding_horizontal": 24,
+        "heading_padding_horizontal_mobile": 24,
+        "item_padding_vertical": 20,
+        "item_padding_vertical_mobile": 20,
+        "item_padding_horizontal": 30,
+        "item_padding_horizontal_mobile": 30,
+        "item_border_thickness": 1,
+        "item_border_bottom_thickness": 1,
+        "number_custom": false,
+        "number_font": "josefin_sans_n4",
+        "number_size": 13,
+        "number_size_mobile": 13,
+        "number_height": 150,
+        "number_hide": false,
+        "question_custom": false,
+        "question_font": "josefin_sans_n4",
+        "question_size": 25,
+        "question_size_mobile": 15,
+        "question_height": 150,
+        "content_padding_vertical": 30,
+        "content_padding_vertical_mobile": 30,
+        "content_padding_horizontal": 60,
+        "content_padding_horizontal_mobile": 30,
+        "answer_width": 540,
+        "answer_custom": false,
+        "answer_font": "josefin_sans_n4",
+        "answer_size": 15,
+        "answer_size_mobile": 15,
+        "answer_height": 150,
+        "item_border_color": "#000000",
+        "number_color": "#000000",
+        "question_color": "#000000",
+        "answer_color": "#000000",
+        "image_border_color": "#000000",
+        "heading_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 1,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "slideshow_UBk3wN",
+    "image_banner",
+    "featured_collection",
+    "image_with_text_wBJWqN",
+    "custom-grid",
+    "custom-future-collection",
+    "custom_faq_section_pqzTLJ"
+  ]
+}
